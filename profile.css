@@ -1,0 +1,26 @@
+body{
+    margin-left: 5vw;
+}
+.profile-picture{
+    border: solid rgb(182, 182, 182) 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    overflow: hidden;
+    background-position: center;
+    background-size:cover;
+    margin-bottom: 50px;
+}
+.profile-picture h2{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+.profile-input{
+    height: 200px;
+    cursor: pointer;
+    opacity: 0;
+}
+.messageSender{
+    
+}
